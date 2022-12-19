@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhafin</h1>
-<h3 align="center">An Indie GameDev cause why not, a particle vfx/shader enthusiast, and a human that can breath.</h3>
+<h3 align="center">An Indie GameDev cause why not, a particle vfx/shader enthusiast, and a math enjoyer that's only decent at it.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

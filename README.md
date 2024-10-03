@@ -4,7 +4,7 @@
 <li>1st Winner Game Dev Gemastik 2024</li>
 <li>Written Library/Tool with +300 stars</li>
 <li>Computer Vision & Game Programmer Intern at Rolling Glory</li>
-<li>Publisher game with +5000 installs</li>
+<li>Published game with +5000 installs</li>
 <li>GIM23 Head of New Member Admission</li>
 </ul>
 

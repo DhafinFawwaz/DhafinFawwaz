@@ -1,5 +1,12 @@
 <h1 align="center">Bonjour! 👋, I'm Dhafin</h1>
-<h3 align="center">An Indie GameDev cause why not, a particle vfx/shader enthusiast, and a math enjoyer.</h3>
+<h3>An Indie GameDev cause why not, a particle vfx/shader enthusiast, and a math enjoyer.</h3>
+<ul>
+<li>1st Winner Game Dev Gemastik 2024</li>
+<li>Written Library/Tool with +300 stars</li>
+<li>Computer Vision & Game Programmer Intern at Rolling Glory</li>
+<li>Publisher game with +5000 installs</li>
+<li>GIM23 Head of New Member Admission</li>
+</ul>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhafinfawwaz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhafinfawwaz) [![Portfolio](https://img.shields.io/badge/Portfolio-blue.svg?)](https://dhafinfawwaz.github.io)

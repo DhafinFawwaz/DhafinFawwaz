@@ -8,10 +8,6 @@
 <li>GIM23 Head of New Member Admission</li>
 </ul>
 
-<details><summary>Looking for a flag?</summary><p>
-c0M1NG_d4rkn3SS}
-</p></details>
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhafinfawwaz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhafinfawwaz) [![Portfolio](https://img.shields.io/badge/Portfolio-blue.svg?)](https://dhafinfawwaz.github.io)
 

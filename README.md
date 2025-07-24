@@ -2,10 +2,11 @@
 <h3>An Indie GameDev cause why not, a particle vfx/shader enthusiast, and a math enjoyer.</h3>
 <ul>
 <li>1st Winner Game Dev Gemastik 2024</li>
-<li>Written Library/Tool with +300 stars</li>
+<li>Written Library/Tool with +500 stars</li>
+<li>Software Engineer at Laku6, Carousel Group</li>
 <li>Computer Vision & Game Programmer Intern at Rolling Glory</li>
 <li>Published game with +5000 installs</li>
-<li>GIM23 Head of New Member Admission</li>
+<li>President of GIM Apprenticeship 2023</li>
 </ul>
 
 ## 🌐 Socials:
